@@ -1,7 +1,5 @@
-let phrases = [{
-        text: 'отправить другу смешную гифку',
-        image: 'https://code.s3.yandex.net/web-code/procrastinate/1.gif'
-    },
+let phrases = [
+    {text: 'отправить другу смешную гифку', image: 'https://code.s3.yandex.net/web-code/procrastinate/1.gif' },
     { text: 'посмотреть скидки на авиабилеты', image: 'https://code.s3.yandex.net/web-code/procrastinate/2.png' },
     { text: 'разобраться, о чём поют рэперы', image: 'https://code.s3.yandex.net/web-code/procrastinate/3.png' },
     { text: 'Юрий Дудь', image: 'https://code.s3.yandex.net/web-code/procrastinate/4.png' },
